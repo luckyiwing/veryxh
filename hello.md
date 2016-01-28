@@ -1,1 +1,1 @@
-$ echo "这是一次测试test ssh key"
+#hexo blog 测试
